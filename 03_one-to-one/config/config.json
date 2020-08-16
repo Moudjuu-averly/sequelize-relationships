@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "eFJvlt27lzyd73sJ",
+    "database": "southerntimes",
+    "host": "34.67.152.119",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "eFJvlt27lzyd73sJ",
+    "database": "southerntimes",
+    "host": "34.67.152.119",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "eFJvlt27lzyd73sJ",
+    "database": "southerntimes",
+    "host": "34.67.152.119",
+    "dialect": "mysql"
+  }
+}
